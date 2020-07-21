@@ -1,0 +1,15 @@
+package pb
+
+const (
+	LOCALHOST = "127.0.0.1"
+	ANYHOST = "0.0.0.0"
+
+	SYMBOL_DIAGONAL = "/"
+	SYMBOL_BLANK = " "
+	SYMBOL_COLON = ":"
+	SYMBOL_COMMA = ","
+	SYMBOL_SEMICOLON = ";"
+	SYMBOL_POINT = "."
+	SYMBOL_UNDERLINE = "_"
+	SYMBOL_AT = "@"
+)
